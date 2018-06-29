@@ -17,19 +17,19 @@ Creating a Dapp for automating the Client-Client interaction in hassle-free and 
 
 **Attributes**
 
-Clients(two):
+Clients
 1. Name
 2. Address
 3. Id proof
 4. Pan Card Number
 5. Occupation
 
-**Lawyer**
+Lawyer
 1. Name
 2. Address
 3. Id proof
 
-**Contract**
+Contract
 1. Name
 2. Date
 3. Work Details
